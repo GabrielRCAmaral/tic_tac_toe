@@ -1,8 +1,8 @@
 # TIC TAC TOE
-Tic tac toe (Jogo da velha) feito utilizando conceitos de Programação orientada a objeto.
+Tic tac toe (Jogo da velha) feito utilizando conceitos de Programação orientada a objeto. Projeto de conclusão para disciplina Programação Orientada a Objeto da UFABC.
 
--Java
--Java swing para GUI
--Algoritmo Min_Max para desenvolver a AI.
--Documentação com UML e um relatorio apresentando o funcionamento.
+- Java
+- Java swing para GUI
+- Algoritmo Min_Max para desenvolver a AI.
+- Documentação com UML e um relatorio apresentando o funcionamento.
 
